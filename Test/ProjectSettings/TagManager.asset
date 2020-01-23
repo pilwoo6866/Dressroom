@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Avatar_Shadow
+  - Avt_Hair_B
+  - Avt_Outer_B
+  - Avatar_Body
+  - Avatar_Head
+  - Avt_Socks
+  - Avt_Shoes
+  - Avt_Pants
+  - Avt_Inner
+  - Avt_Outer_F
+  - Avt_Mouth
+  - Avt_Eyes
+  - Avt_Hair_F
+  - Avt_Eyebrows
+  - Avt_Jewelry
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Avatar_Shadow
+    uniqueID: 2459021645
+    locked: 0
+  - name: Avt_Hair_B
+    uniqueID: 3435842825
+    locked: 0
+  - name: Avt_Outer_B
+    uniqueID: 23924669
+    locked: 0
+  - name: Avatar_Body
+    uniqueID: 226089461
+    locked: 0
+  - name: Avatar_Head
+    uniqueID: 3746885775
+    locked: 0
+  - name: Avt_Socks
+    uniqueID: 52077291
+    locked: 0
+  - name: Avt_Shoes
+    uniqueID: 2430538413
+    locked: 0
+  - name: Avt_Pants
+    uniqueID: 1031345707
+    locked: 0
+  - name: Avt_Inner
+    uniqueID: 1283385189
+    locked: 0
+  - name: Avt_Outer_F
+    uniqueID: 2538227041
+    locked: 0
+  - name: Avt_Mouth
+    uniqueID: 1245605385
+    locked: 0
+  - name: Avt_Eyes
+    uniqueID: 3098816647
+    locked: 0
+  - name: Avt_Hair_F
+    uniqueID: 2115014883
+    locked: 0
+  - name: Avt_Eyebrows
+    uniqueID: 940565903
+    locked: 0
+  - name: Avt_Jewelry
+    uniqueID: 3000570469
+    locked: 0
